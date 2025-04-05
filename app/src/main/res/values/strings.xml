@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EducateAscenders</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Welcome to EducateAscenders</string>
+    <string name="welcome_subtitle">Your Gateway to Free Education</string>
+    <string name="login_button">Login</string>
+    <string name="signup_button">Sign Up</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_submit">Login</string>
+    <string name="no_account">Don\'t have an account? Sign Up</string>
+
+    <!-- Sign Up Screen -->
+    <string name="signup_title">Create Account</string>
+    <string name="name_hint">Full Name</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="age_hint">Age</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="signup_submit">Sign Up</string>
+    <string name="have_account">Already have an account? Login</string>
+
+    <!-- Home Screen -->
+    <string name="search_hint">Search for topics, subjects, or syllabus sections</string>
+    <string name="browse_categories">Browse Categories</string>
+    <string name="logout">Logout</string>
+
+    <!-- Category Selection Screen -->
+    <string name="select_category">Select Category</string>
+    <string name="select_class">Select Class</string>
+    <string name="select_subject">Select Subject</string>
+    <string name="search_topic_hint">Search specific topic</string>
+    <string name="search_button">Search</string>
+
+    <!-- Search Results Screen -->
+    <string name="search_results">Search Results</string>
+    <string name="open_resource">Open Resource</string>
+    <string name="add_bookmark">Add bookmark</string>
+    <string name="remove_bookmark">Remove bookmark</string>
+
+    <!-- Categories -->
+    <string name="category_school">School (Grade 1-10)</string>
+    <string name="category_high_school">High School (Grade 11-12)</string>
+    <string name="category_engineering">Engineering</string>
+    <string name="category_agriculture">Agriculture</string>
+    <string name="category_arts">Arts &amp; Humanities</string>
+    <string name="category_business">Business &amp; Management</string>
+    <string name="category_computer_science">Computer Science</string>
+    <string name="category_languages">Languages</string>
+
+    <!-- Resource Types -->
+    <string name="resource_type_video">VIDEO</string>
+    <string name="resource_type_article">ARTICLE</string>
+    <string name="resource_type_website">WEBSITE</string>
+    <string name="resource_type_pdf">PDF</string>
+</resources>

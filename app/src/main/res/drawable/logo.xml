@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Book shape -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M40,20L160,20C165.5,20 170,24.5 170,30L170,170C170,175.5 165.5,180 160,180L40,180C34.5,180 30,175.5 30,170L30,30C30,24.5 34.5,20 40,20Z"/>
+
+    <!-- Pages -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,40L150,40L150,160L50,160Z"/>
+
+    <!-- Ascending lines representing education -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M70,80L130,80L130,90L70,90Z"/>
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M70,100L120,100L120,110L70,110Z"/>
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M70,120L110,120L110,130L70,130Z"/>
+</vector>
